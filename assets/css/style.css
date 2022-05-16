@@ -25,7 +25,7 @@ body {
 }
 
 /* changing divs to navs */
-.header nav {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,11 +33,9 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
-    list-style-type: none;
-}
-
-.header nav ul li {
+/* changed .header to header to target new element */
+/* changed div to nav to match element instead of li since list was taken out */
+nav a {
     display: inline-block;
     margin-left: 25px;
 }
