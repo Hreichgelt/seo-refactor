@@ -1,4 +1,4 @@
-# TITLE
+# HORISEON SEO REFACTOR
 
 [LIVE SITE](HTTPS://WWW.GOOGLE.COM)
 
@@ -21,6 +21,10 @@ ENTER THIS TO GET THAT
 ![IMAGES](./IMAGES/RUBELS.PNG)
 
 ## AUTHORS AND ACKNOWLEDGMENTS
+
+## RESOURCES 
+[LIVE SITE](https://hreichgelt.github.io/seo-refactor/)
+[REPOSITORY](https://github.com/Hreichgelt/seo-refactor)
 
 ```HTML
 BLOCK
