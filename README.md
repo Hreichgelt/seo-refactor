@@ -1,35 +1,35 @@
 # HORISEON SEO REFACTOR
 
-[LIVE SITE](HTTPS://WWW.GOOGLE.COM)
+[LIVE SITE]()
 
 ## TABLE OF CONTENTS
 
-1. [DESCRIPTION](#description)
-2. [USAGE](#USAGE)
-3. [VISUALS](#visuals)
+1. [Description](#description)
+2. [Usage](#USAGE)
+3. [Visuals](#visuals)
+4. [Authors Acknowledgments](#authors-and-acknowledgments)
 4. [Resources](#resources)
 
+<!-- adding a description and cleaning up casing of values in TOC -->
 ## DESCRIPTION 
-THIS IS A VERY BRIEF DESCRIPTION OF 
+This is a practice website for HTML and CSS. Our goal was to refactor the code, create a
+responsive SEO link, and create our first readme.md.
 
-WHAT THE SITE DOES
+
 ## USAGE 
-CLICK HERE TO GET THIS 
+Click any of the navigation links at the top to quickly jump to that article
 
-ENTER THIS TO GET THAT 
+Hover over SEO to see full text
 
 ## VISUALS 
 ![Horiseon](./assets/SEO.png)
 
 
 ## AUTHORS AND ACKNOWLEDGMENTS
+Hans Reichgelt
 
 ## RESOURCES 
 1. [LIVE SITE](https://hreichgelt.github.io/seo-refactor/)
 
 2. [REPOSITORY](https://github.com/Hreichgelt/seo-refactor)
 
-```HTML
-BLOCK
-```
-<!-- make sure that file names match exactly, or the image will be broken in github -->

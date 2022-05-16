@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* removed list elements as they are an old tool */
 /* changing divs to navs */
 nav {
     padding-top: 15px;
@@ -73,7 +73,7 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* removed section class and changed to aside in html and css */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -84,7 +84,7 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* reduced long benefit classes to just benefits and removed extra benefit information */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
